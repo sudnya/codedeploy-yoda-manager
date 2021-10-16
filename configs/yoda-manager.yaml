@@ -1,0 +1,2 @@
+aws_region: us-east-1
+aws_ecr_registry_url: 939688055792.dkr.ecr.us-east-1.amazonaws.com
